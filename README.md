@@ -10,4 +10,4 @@ Pronto hare aportaciones
 # Mis estadisticas en GitHub
 [![Hua's github status](https://github-readme-stats.vercel.app/api?username=Rizquez&show_icons=true&theme=dark)](https://github.com/Rizquez/github-readme-stats)
 
-## Contacto:
+### Contacto:
