@@ -5,6 +5,7 @@
 ![](https://assets.bedu.org/images/top-lenguajes-programacion-2021.jpg)
 
 ## Mis Repositorios
+Pronto habran aportaciones.
 
 # Mis estadisticas en GitHub
 [![Hua's github status](https://github-readme-stats.vercel.app/api?username=Rizquez&show_icons=true&theme=dark)](https://github.com/Rizquez/github-readme-stats)
