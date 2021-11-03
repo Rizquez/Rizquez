@@ -11,4 +11,4 @@ Pronto hare aportaciones
 [![Hua's github status](https://github-readme-stats.vercel.app/api?username=Rizquez&show_icons=true&theme=dark)](https://github.com/Rizquez/github-readme-stats)
 
 ### Contacto:
-[![Gmail Badge](https://img.shields.io/badge/-pedro.rizquez.94@gmail.com-c14438?style=flat.square&logo=Gmail&logoColor=white&link=mailto:pedro.rizquez.94@gmail.com)](mailto:pedro.rizquez.94@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-pedro.rizquez.94@hotmail.com-c14438?style=flat.square&logo=Hotmail&logoColor=white&link=mailto:pedro.rizquez.94@hotmail.com)](mailto:pedro.rizquez.94@hotmail.com)
