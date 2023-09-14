@@ -4,8 +4,6 @@
 
 <h3> 💻 About Me </h3>
 
-
-
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
@@ -38,7 +36,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; AWS | Docker🐳 | Azure
 
 <hr>
 
@@ -58,34 +56,20 @@
 
 <br><br>
 
-
-
 <hr>
-
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <br>
 
-
-
 <p align="center">
 
-<a href="https://www.linkedin.com/in/shivam-malpani-47a379198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/pedro-rizquez/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pedro%20Rizquez-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="mailto:pedro.rizquez.94@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pedro.rizquez.94@hotmail.com-blue?style=flat-square&logo=outlook"></a>
 
 </p>
 
-
-
-
-
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
-
-
-
 
 <hr>
