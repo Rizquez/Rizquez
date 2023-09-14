@@ -70,6 +70,6 @@
 
 </p>
 
-<img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" width="30">
+<img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" width="90">
 
 <hr>
