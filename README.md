@@ -1,4 +1,4 @@
-### Hi! 👋
+### Hi! I'm Pedro!👋
 
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340">
 
@@ -44,7 +44,7 @@
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
+[![Rizquez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizquez&show_icons=true)](https://github.com/Rizquez)
 
 <br/>
 
