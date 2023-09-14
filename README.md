@@ -50,7 +50,7 @@
 
 <br/>
 
-<img src="![image](https://github.com/Rizquez/presentacion/assets/93608829/a0ddeeca-85e8-471c-a1b9-a62543268020)" width="350" align='right'>
+<img src="https://www.tecnoschool.com.ar/img/cursos/python/trabajando.gif" width="350" align='right'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizquez&show_icons=true)
 
