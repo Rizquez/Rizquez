@@ -70,6 +70,6 @@
 
 </p>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+<img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" width="30">
 
 <hr>
