@@ -36,9 +36,7 @@
 
 
 
-<br/>
 
-<br/>
 
 <img src="https://www.tecnoschool.com.ar/img/cursos/python/trabajando.gif" width="350" align='right'>
 
