@@ -60,8 +60,8 @@
 
 <a href="mailto:pedro.rizquez.94@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pedro.rizquez.94@hotmail.com-blue?style=flat-square&logo=outlook"></a>
 
-</p>
-
 <img align='right' src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" width="90">
+
+</p>
 
 <hr>
