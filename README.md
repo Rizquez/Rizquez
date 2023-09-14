@@ -74,7 +74,7 @@
 
 <a href="https://www.linkedin.com/in/shivam-malpani-47a379198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="mailto:shivammalpani111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:pedro.rizquez.94@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pedro.rizquez.94@hotmail.com-blue?style=flat-square&logo=outlook"></a>
 
 </p>
 
