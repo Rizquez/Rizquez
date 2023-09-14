@@ -4,21 +4,17 @@
 
 <h3> 💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 😎 &nbsp; Avid in search of knowledge that allows me to continue growing in the world of software development.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Studying Multiplatform Application Development, Data Analysis and Cybersecurity.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🧑‍💻 &nbsp; Learn about cloud technology and systems architecture.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-
-
+- 🚀 &nbsp; Constant search for personal projects to enhance my self-learning.
 
 <h3>🛠 Tech Stack</h3>
 
-
-
-- 💻 &nbsp; Python🐍 | Java | PostgreSQL🐘
+- 💻 &nbsp; Python🐍 | Java♨️ | PostgreSQL🐘
 
 - 🌐 &nbsp; HTML | CSS | ReactJS
 
@@ -32,15 +28,11 @@
 
 -->
 
-
-
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Azure
+- 🔧 &nbsp; AWS | Docker🐳 | Microsoft Azure
 
 <hr>
-
-
 
 <br/><br/>
 
@@ -70,6 +62,6 @@
 
 </p>
 
-<img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" width="90">
+<img align='right' src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" width="90">
 
 <hr>
