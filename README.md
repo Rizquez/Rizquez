@@ -18,7 +18,7 @@
 
 
 
-- 💻 &nbsp; Python | Java | PostgreSQL
+- 💻 &nbsp; Python🐍 | Java | PostgreSQL🐘
 
 - 🌐 &nbsp; HTML | CSS | ReactJS
 
@@ -50,7 +50,7 @@
 
 <br/>
 
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+<img src="![image](https://github.com/Rizquez/presentacion/assets/93608829/a0ddeeca-85e8-471c-a1b9-a62543268020)" width="350" align='right'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizquez&show_icons=true)
 
