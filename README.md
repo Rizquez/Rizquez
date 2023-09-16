@@ -16,7 +16,7 @@
 
 - 💻 &nbsp; Python🐍 | Java♨️ | PostgreSQL🐘
 
-- 🌐 &nbsp; HTML | CSS | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript
 
 <!--
 
