@@ -14,13 +14,13 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python🐍 | Java♨️ | PostgreSQL🐘
+- 💻 &nbsp; Python🐍 | Java♨️ | PostgreSQL🐘 | MySQL🐬
 
 - 🌐 &nbsp; HTML | CSS | JavaScript
 
 <!--
 
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp; MongoDB
 
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
 
