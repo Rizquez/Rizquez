@@ -30,7 +30,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Microsoft Azure
+- 🔧 &nbsp; AWS | Docker🐳 | Microsoft Azure | Mojo🔥
 
 <hr>
 
