@@ -46,7 +46,7 @@
 
 <p align="center">
 
-<img src="https://www.tecnoschool.com.ar/img/cursos/python/trabajando.gif" width="220" align='center'>
+<img src="https://www.tecnoschool.com.ar/img/cursos/python/trabajando.gif" width="220" align='right'>
 
 <a href="https://www.linkedin.com/in/pedro-rizquez/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pedro%20Rizquez-blue?style=flat-square&logo=linkedin"></a>
 
