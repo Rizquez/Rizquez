@@ -1,7 +1,5 @@
 ### Hi! I'm Pedro!👋
 
-
-
 <h3> 💻 About Me </h3>
 
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
@@ -46,9 +44,9 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
-
 <img src="https://www.tecnoschool.com.ar/img/cursos/python/trabajando.gif" width="230" align='right'>
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/pedro-rizquez/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pedro%20Rizquez-blue?style=flat-square&logo=linkedin"></a>
 
