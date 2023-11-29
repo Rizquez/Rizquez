@@ -32,7 +32,7 @@
 
 - 🔧 &nbsp; AWS | Docker🐳 | Microsoft Azure | Mojo🔥 | C#
 
-<hr>
+<hr> 
 
 <h3> 📊 GitHub Stats: </h3>
 <p align="center">
