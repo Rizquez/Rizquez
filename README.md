@@ -1,6 +1,6 @@
 ### Hi! I'm Pedro!👋
 
-<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340">
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
 
 <h3> 💻 About Me </h3>
 
