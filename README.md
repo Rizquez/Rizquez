@@ -1,6 +1,6 @@
 ### Hi! I'm Pedro!👋
 
-<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
 <h3> 💻 About Me </h3>
 
@@ -36,7 +36,7 @@
 
 📊 GitHub Stats:
 
-<img src="https://www.tecnoschool.com.ar/img/cursos/python/trabajando.gif" width="450" align='right'>
+<img src="https://www.tecnoschool.com.ar/img/cursos/python/trabajando.gif" width="400" align='right'>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizquez&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
 
