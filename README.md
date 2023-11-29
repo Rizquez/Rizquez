@@ -34,15 +34,13 @@
 
 <hr>
 
-<p align="center">
+<p align="center" style="margin-bottom: 20px;">
   📊 GitHub Stats:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizquez&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" align="left"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizquez&theme=dark&hide_border=false" alt="GitHub Streak" align="right"/>
 </p>
 
-<br/>
-
 <hr>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3 style="margin-top: 20px;"> 🤝🏻 Connect with Me </h3>
 
