@@ -35,14 +35,12 @@
 <hr>
 
 <p align="center">
-  
-📊 GitHub Stats:
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizquez&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" align="left" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizquez&theme=dark&hide_border=false" alt="GitHub Streak" align="right" />
+  📊 GitHub Stats:
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizquez&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" align="left"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizquez&theme=dark&hide_border=false" alt="GitHub Streak" align="right"/>
 </p>
 
-<br>
+<br/>
 
 <hr>
 
