@@ -2,7 +2,7 @@
 
 <h3> 💻 About Me </h3>
 
-<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
 
 - 😎 &nbsp; Avid in search of knowledge that allows me to continue growing in the world of software development.
 
