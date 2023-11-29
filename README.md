@@ -40,19 +40,19 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rizquez&theme=dark&hide_border=false)
 
-<img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" width="90">
-
 <hr>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<img src="https://www.tecnoschool.com.ar/img/cursos/python/trabajando.gif" width="230" align='right'>
+<img src="https://www.tecnoschool.com.ar/img/cursos/python/trabajando.gif" width="2500" align='right'>
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/pedro-rizquez/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pedro%20Rizquez-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="mailto:pedro.rizquez.94@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Pedro Rizquez-blue?style=flat-square&logo=gmail"></a>
+
+<img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" width="90">
 
 </p>
 
