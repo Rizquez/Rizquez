@@ -52,8 +52,8 @@
 
 <img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" width="90">
 
-</p>
-
 <img src="https://www.tecnoschool.com.ar/img/cursos/python/trabajando.gif" width="350" align='right'>
+
+</p>
 
 <hr>
