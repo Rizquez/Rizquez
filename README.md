@@ -33,9 +33,9 @@
 - 🔧 &nbsp; AWS | Docker🐳 | Microsoft Azure | Mojo🔥 | C#
 
 <hr>
-# 📊 GitHub Stats:
+📊 GitHub Stats:
 <img src="https://www.tecnoschool.com.ar/img/cursos/python/trabajando.gif" width="350" align='right'>
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=rizquez&theme=dark&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizquez&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <hr>
