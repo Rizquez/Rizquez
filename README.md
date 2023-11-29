@@ -40,8 +40,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizquez&theme=dark&hide_border=false" alt="GitHub Streak" align="right"/>
 </p>
 
-<hr>
-
 
 
 
