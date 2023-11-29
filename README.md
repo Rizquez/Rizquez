@@ -44,7 +44,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<img src="https://www.tecnoschool.com.ar/img/cursos/python/trabajando.gif" width="2500" align='right'>
+<img src="https://www.tecnoschool.com.ar/img/cursos/python/trabajando.gif" width="250" align='right'>
 
 <p align="center">
 
