@@ -41,6 +41,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizquez&theme=dark&hide_border=false" alt="GitHub Streak" align="right" />
 </p>
 
+<h3> 🤝🏻 Connect with Me </h3>
 <hr>
 
 
