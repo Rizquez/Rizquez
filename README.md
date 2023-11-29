@@ -34,11 +34,11 @@
 
 <hr> 
 
+<img src="https://www.tecnoschool.com.ar/img/cursos/python/trabajando.gif" width="250" align='right'>
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-
-<img src="https://www.tecnoschool.com.ar/img/cursos/python/trabajando.gif" width="250" align='right'>
 
 <a href="https://www.linkedin.com/in/pedro-rizquez/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pedro%20Rizquez-blue?style=flat-square&logo=linkedin"></a> <br> 
 <a href="mailto:pedro.rizquez.94@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Pedro Rizquez-blue?style=flat-square&logo=gmail"></a> <br> 
