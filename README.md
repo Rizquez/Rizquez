@@ -36,7 +36,7 @@
 
 <img src="https://www.tecnoschool.com.ar/img/cursos/python/trabajando.gif" width="350" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizquez&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizquez&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <hr>
 
