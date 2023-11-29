@@ -33,16 +33,18 @@
 - 🔧 &nbsp; AWS | Docker🐳 | Microsoft Azure | Mojo🔥 | C#
 
 <hr>
-
+<p align="center">
+  
 📊 GitHub Stats:
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizquez&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" align="left" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizquez&theme=dark&hide_border=false" alt="GitHub Streak" align="right" />
 </p>
 
 <hr>
 
+<p align="center">
+  
 <h3> 🤝🏻 Connect with Me </h3>
 
 <img src="https://www.tecnoschool.com.ar/img/cursos/python/trabajando.gif" width="250" align='right'>
@@ -54,6 +56,8 @@
 <a href="mailto:pedro.rizquez.94@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Pedro Rizquez-blue?style=flat-square&logo=gmail"></a>
 
 <img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" width="90">
+
+</p>
 
 </p>
 
