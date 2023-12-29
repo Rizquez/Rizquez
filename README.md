@@ -14,7 +14,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python🐍 | Java♨️
+- 💻 &nbsp; Python🐍 | Java♨️ | C#
 
 - 🌐 &nbsp; HTML | CSS | JavaScript
 
@@ -34,7 +34,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Azure | Mojo🔥 | C# 
+- 🔧 &nbsp; Docker🐳 | Azure | Mojo🔥 
 
 <hr> 
 
