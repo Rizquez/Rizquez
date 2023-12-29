@@ -20,7 +20,7 @@
 
 - 🛢 &nbsp; PostgreSQL🐘 | MySQL🐬
 
-- 🔧 &nbsp; Git
+- 🔧 &nbsp; Git🔶
 
 <!--
 
