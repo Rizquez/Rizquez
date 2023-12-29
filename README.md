@@ -14,15 +14,19 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python🐍 | Java♨️ | PostgreSQL🐘 | MySQL🐬
+- 💻 &nbsp; Python🐍 | Java♨️
 
 - 🌐 &nbsp; HTML | CSS | JavaScript
+
+- 🛢 &nbsp; PostgreSQL🐘 | MySQL🐬
+
+- 🔧 &nbsp; Git
 
 <!--
 
 - 🛢 &nbsp; MongoDB
 
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+- 🔧 &nbsp; Markdown | Selenium | Tidyverse
 
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
