@@ -24,7 +24,7 @@
 
 <!--
 
-- 🛢 &nbsp; MongoDB
+- 🛢 &nbsp; MongoDB | MariaDB
 
 - 🔧 &nbsp; Markdown | Selenium | Tidyverse
 
