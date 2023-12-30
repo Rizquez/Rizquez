@@ -18,7 +18,7 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript
 
-- 🛢 &nbsp; PostgreSQL🐘 | MySQL🐬
+- 🛢 &nbsp; PostgreSQL🐘 | MySQL🐬 | SQL Server
 
 - 🔧 &nbsp; Git🔶
 
