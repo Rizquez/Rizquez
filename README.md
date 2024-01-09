@@ -32,9 +32,9 @@
 
 -->
 
-<h3>🛠 To Learn</h3>
+<!-- <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Azure | Mojo🔥 
+- 🔧 &nbsp; Azure | Mojo🔥 -->
 
 <hr> 
 
