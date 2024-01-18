@@ -20,7 +20,7 @@
 
 - 🛢 &nbsp; PostgreSQL🐘 | MySQL🐬 | SQL Server
 
-- 🔧 &nbsp; Git🔶 | Docker🐳
+- 🔧 &nbsp; Git🔶 | Docker🐳 | Azure☁️
 
 <!--
 
@@ -34,7 +34,7 @@
 
 <!-- <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Azure | Mojo🔥 -->
+- 🔧 &nbsp; Mojo🔥 -->
 
 <hr> 
 
