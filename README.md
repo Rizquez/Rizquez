@@ -38,7 +38,7 @@
 
 <hr> 
 
-<img src="https://www.tecnoschool.com.ar/img/cursos/python/trabajando.gif" width="250" align='right'>
+<img src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" width="250" align='right'>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
