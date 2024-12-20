@@ -1,18 +1,16 @@
-### Hi! I'm Pedro!👋
+### Hola! Soy Pedro!👋
 
-<h3> 💻 About Me </h3>
+<h3> 💻 Acerca de mi </h3>
 
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
 
-- 😎 &nbsp; Avid in search of knowledge that allows me to continue growing in the world of software development.
+- 😎 &nbsp; Soy un apasionado del aprendizaje continuo en el desarrollo de software..
 
-- 🎓 &nbsp; Studying Multiplatform Application Development, Data Analysis and Cybersecurity.
+- 🧑‍💻 &nbsp; Actualmente, profundizo mis conocimientos en tecnologías Cloud y arquitectura de sistemas.
 
-- 🧑‍💻 &nbsp; Learn about cloud technology and systems architecture.
+- 🚀 &nbsp; Me encanta trabajar en proyectos personales que desafían mis habilidades y promueven mi autoaprendizaje.
 
-- 🚀 &nbsp; Constant search for personal projects to enhance my self-learning.
-
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Lenguajes de programacion y tecnologias</h3>
 
 - 💻 &nbsp; Python🐍 | Java♨️ | C#
 
@@ -40,7 +38,7 @@
 
 <img src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" width="250" align='right'>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Conectemos  </h3>
 
 <p align="center">
 
@@ -51,10 +49,8 @@
 
 <hr> 
 
-<h3> 📊 GitHub Stats: </h3>
+<h3> 📊 Estadisticas en GitHub </h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizquez&theme=dark&hide_progress=true&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" align="left"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizquez&theme=dark&hide_border=true" alt="GitHub Streak" align="right"/>
 </p> <br>
-
-
