@@ -38,6 +38,8 @@
   <img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" width="120">
 </p>
 
+<br>
+
 ---
 
 <h3> 🏆 GitHub Profile Trophy </h3>
