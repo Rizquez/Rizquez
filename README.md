@@ -27,7 +27,7 @@
 
 ---
 
-<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right">
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" align="right">
 
 <h3> 🤝🏻 Let's connect </h3>
 <p>
