@@ -53,8 +53,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizquez&theme=dark&hide_border=true" alt="GitHub Streak" align="right"/>
 </p>
 
-<br clear="both"/>
-<br/>
+<br clear="both">
 
 ---
 
