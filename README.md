@@ -61,6 +61,6 @@
 
 <p align="center">
   <a href="https://rizquez.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌍%20Visit%20my%20portfolio-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌍%20Visit%20my%20website-blue?style=for-the-badge" />
   </a>
 </p>
