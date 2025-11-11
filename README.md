@@ -15,7 +15,7 @@
 
 <h3>🛠 Improve my skills</h3>
 
-- 🤖 Artificial Intelligence | Machine Learning
+- 🤖 Artificial Intelligence
 - 💽 Big Data
 
 <h3> ✨ Fun facts </h3>
