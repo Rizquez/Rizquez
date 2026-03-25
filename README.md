@@ -1,13 +1,13 @@
 ### Hi, there! I'm Pedro!👋
 
-<h3> 🛠 Technologies </h3>
+#### 🛠 Technologies
 
-- 💻 &nbsp; Python | C# (.NET)
-- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript
+- 💻 &nbsp; Python | C#
+- 🌐 &nbsp; HTML | CSS | TypeScript
 - 🛢 &nbsp; PostgreSQL | MySQL | SQL Server | MongoDB
 - 🔧 &nbsp; Git | Docker | Azure
 
-<h3> ✨ Fun facts </h3>
+#### ✨ Fun facts
 
 - ☕ Coffee accompanies me with every line of code.
 - 🎮 I relax by playing video games.
