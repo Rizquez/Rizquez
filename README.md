@@ -1,22 +1,11 @@
 ### Hi, there! I'm Pedro!👋
 
-<h3> 💻 About me </h3>
-
-- 😎 &nbsp; I am a passionate software developer who enjoys solving complex problems and finding creative ways to make things more efficient.
-- 🧑‍💻 &nbsp; Throughout my educational and professional career, I have worked on developing solutions that not only optimize processes but also make life easier for the people who use them.
-- 🚀 &nbsp; I firmly believe in the power of curiosity and continuous learning. Every project is an opportunity to grow and help others, and that is the approach I bring to everything I do in the world of programming.
-
 <h3> 🛠 Technologies </h3>
 
-- 💻 &nbsp; Python🐍 | C#
+- 💻 &nbsp; Python | C# (.NET)
 - 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript
-- 🛢 &nbsp; PostgreSQL🐘 | MySQL🐬 | SQL Server | MongoDB
-- 🔧 &nbsp; Git🔶 | Docker🐳 | Azure☁️
-
-<h3>🛠 Improve my skills</h3>
-
-- 🤖 Artificial Intelligence
-- 💽 Big Data
+- 🛢 &nbsp; PostgreSQL | MySQL | SQL Server | MongoDB
+- 🔧 &nbsp; Git | Docker | Azure
 
 <h3> ✨ Fun facts </h3>
 
